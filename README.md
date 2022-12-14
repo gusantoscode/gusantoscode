@@ -16,10 +16,10 @@ const profile = {
 </pre>
 
 - 🌎 Languages:
-  - 🇧🇷 Portuguese: **Fluent**
-  - 🇪🇸 Spanish: **Advanced**
-  - 🇬🇧 English: **Intermediate-advanced**
-  - 🇷🇺 Russian: **Beginner**
+  - <img width="15" height="15" src="https://flagcdn.com/br.svg"> Portuguese: **Fluent**
+  - <img width="15" height="15" src="https://flagcdn.com/es.svg"> Spanish: **Advanced**
+  - <img width="15" height="15" src="https://flagcdn.com/gb.svg"> English: **Intermediate-advanced**
+  - <img width="15" height="15" src="https://flagcdn.com/ru.svg"> Russian: **Beginner**
 
 ## Technical Skills
 <div>
