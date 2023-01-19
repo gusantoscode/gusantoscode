@@ -51,5 +51,5 @@ const profile = {
 ###
 <div align="center">
   <a href="https://github.com/gusantoscode">
-  <img style="margin-left: 20cm;" src="https://github-readme-stats.vercel.app/api?username=gusantoscode&count_private=true&show_icons=true&theme=tokyonight"> 
+  <img style="margin-left: 20cm;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gusantoscode&count_private=true&show_icons=true&theme=tokyonight"> 
 </div>
