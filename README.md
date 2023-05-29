@@ -4,7 +4,7 @@
 const profile = {
   name: "Gustavo",
   gender: "male",
-  age: 18, // January 6th
+  age: 19, // January 6th
   email: 'contato@gusantoscode.com',
   website: "www.gusantoscode.com", // also my portfolio
   location: {
