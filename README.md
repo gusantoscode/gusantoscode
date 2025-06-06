@@ -40,13 +40,12 @@ const profile: IProfile = {
 
 <br/>
 
-### 🧱 Architectural Design
+### 🏗️ Architectural Design
 
-- **Event-driven** and **message-based** architectures using queues (e.g., RabbitMQ, Redis)
-- **Service-oriented backend**, separating responsibilities (auth, order, payment, etc.)
-- **Reverse proxies** (e.g., Nginx) for API gateway and SSL termination
-- **UNIX time-based** timestamps and precise data modeling (e.g., `INT8` for money in cents)
-- Usage of **PostgreSQL** with normalized schemas, automatic indexing, and optimal type usage (`VARCHAR(n)`, no `TEXT`)
+- Event-driven and message-based architectures using queues for decoupling and resilience  
+- Service-oriented backend, with clearly defined domains (authentication, order management, payments)  
+- Reverse proxies for centralized API routing, SSL termination, and traffic control  
+- Emphasis on observability, modularization, and efficient resource allocation across services
 
 <br/>
 
