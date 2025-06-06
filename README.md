@@ -12,6 +12,7 @@ My work combines **mobile-first development**, **modular system design**, and **
 - **Queue-based messaging**
 - **Containerized microservices**
 - **Security-first practices** aligned with the **OWASP Top 10**
+- **AI integration** in real-world systems using **LLMs**, **vector databases**, and **RAG-based architectures** for enhanced user experiences
 
 I'm currently focused on solutions that run on **Linux-based environments**, with a strong emphasis on **observability**, **resilience**, and **performance** at scale.
 
@@ -33,19 +34,28 @@ const profile: IProfile = {
 
 ### 🔐 Security Practices
 
-- Defensive programming against common vulnerabilities such as **SQL Injection**, **Cross-Site Scripting (XSS)**, and **Denial of Service (DoS)** attacks
-- Use of **strong hashing algorithms** for credential storage and **tokenization** to handle sensitive information without storing raw data
-- Implementation of **role-based access control (RBAC)**, **input validation**, and **data sanitization** to ensure proper access and data integrity
-- Focus on **OWASP Top 10** principles, including **API hardening**, **rate limiting**, and **multi-tenant data isolation**
+- Defensive programming against common vulnerabilities such as **SQL Injection**, **Cross-Site Scripting (XSS)**, and **Denial of Service (DoS)** attacks  
+- Use of **strong hashing algorithms** for credential storage and **tokenization** to handle sensitive information without storing raw data  
+- Implementation of **role-based access control (RBAC)**, **input validation**, and **data sanitization** to ensure proper access and data integrity  
+- Focus on **OWASP Top 10** principles, including **API hardening**, **rate limiting**, and **multi-tenant data isolation**  
+
+<br/>
+
+### 🧠 AI & RAG Systems
+
+- Practical experience applying **LLM-based solutions** for automation, content generation, and user interaction  
+- Integration of **Retrieval-Augmented Generation (RAG)** pipelines combining embeddings, **vector search**, and prompt optimization  
+- Usage of **AI-driven APIs** and orchestration layers to build intelligent interfaces and assistant-like experiences  
+- Strong understanding of **token limits**, **embedding space**, and **context management** for production-grade systems  
 
 <br/>
 
 ### 🏗️ Architectural Design
 
-- Event-driven and message-based architectures using queues for decoupling and resilience  
-- Service-oriented backend, with clearly defined domains (authentication, order management, payments)  
-- Reverse proxies for centralized API routing, SSL termination, and traffic control  
-- Emphasis on observability, modularization, and efficient resource allocation across services
+- **Event-driven** and **message-based architectures** using queues for decoupling and resilience  
+- **Service-oriented backend**, with clearly defined domains (authentication, order management, payments)  
+- **Reverse proxies** for centralized API routing, SSL termination, and traffic control  
+- Strong emphasis on **observability**, **modularization**, and **intelligent service orchestration**
 
 <br/>
 
@@ -87,7 +97,6 @@ const profile: IProfile = {
 | 🇧🇷 Portuguese | ✅ Native      | ✅ Native | ✅ Native | **C2**|
 | 🇬🇧 English    | ✅ Advanced    | ✅ Advanced | ✅ Advanced | **B2/C1** |
 | 🇪🇸 Spanish    | ✅ Advanced    | ✅ Advanced | ✅ Intermediate | **B2/C1**|
-
 
 <br/>
 
