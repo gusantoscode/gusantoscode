@@ -1,61 +1,111 @@
-## Hi, I'm Gustavo and I'm from Brazil <img width="20" height="20" src="https://flagcdn.com/br.svg">
-#### With 3 years of experience in software development, I have comprehensive skills that range from interface to application deployment. In the last year, I focused on frontend and mobile development, specializing in technologies such as Typescript, React and React Native.
+<h1 align="center">Hi, I'm Gustavo 👋</h1>
+<h3 align="center">Fullstack & Mobile Developer from Brazil 🇧🇷</h3>
+
 <br/>
+
+### 👨‍💻 About Me
+
+With over **3 years of experience** in software development, I specialize in building **scalable**, **secure**, and **high-performance** applications, from backend infrastructure to modern user interfaces.
+
+My work combines **mobile-first development**, **modular system design**, and **robust backend architecture**, including:
+- **Domain-driven design**
+- **Queue-based messaging**
+- **Containerized microservices**
+- **Security-first practices** aligned with the **OWASP Top 10**
+
+I'm currently focused on solutions that run on **Linux-based environments**, with a strong emphasis on **observability**, **resilience**, and **performance** at scale.
 
 ```ts
 const profile: IProfile = {
   name: "Gustavo",
   gender: "male",
-  age: 20, // January 6th
-  email: 'contato@gusantoscode.com',
-  website: "www.gusantoscode.com", // also my portfolio
+  age: 21, // born on January 6
+  email: "github.yonder366@passinbox.com", // Prevent spams...
   location: {
-    country: 'Brazil',
-    state: 'Mato Grosso do Sul',
-    city: 'Chapadão do Sul',
-  }
-}
+    country: "Brazil",
+    state: "Mato Grosso do Sul",
+    city: "Chapadão do Sul",
+  },
+};
 ```
 
-## Technical Skills
-<div>
-  <a href="https://www.typescriptlang.org">
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />    
+<br/>
+
+### 🔐 Security Practices
+
+- Defensive programming against common vulnerabilities such as **SQL Injection**, **Cross-Site Scripting (XSS)**, and **Denial of Service (DoS)** attacks
+- Use of **strong hashing algorithms** for credential storage and **tokenization** to handle sensitive information without storing raw data
+- Implementation of **role-based access control (RBAC)**, **input validation**, and **data sanitization** to ensure proper access and data integrity
+- Focus on **OWASP Top 10** principles, including **API hardening**, **rate limiting**, and **multi-tenant data isolation**
+
+<br/>
+
+### 🧱 Architectural Design
+
+- **Event-driven** and **message-based** architectures using queues (e.g., RabbitMQ, Redis)
+- **Service-oriented backend**, separating responsibilities (auth, order, payment, etc.)
+- **Reverse proxies** (e.g., Nginx) for API gateway and SSL termination
+- **UNIX time-based** timestamps and precise data modeling (e.g., `INT8` for money in cents)
+- Usage of **PostgreSQL** with normalized schemas, automatic indexing, and optimal type usage (`VARCHAR(n)`, no `TEXT`)
+
+<br/>
+
+### 🛠️ Technical Skills
+
+<div align="center">
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   </a>
-  <a href="https://react.dev">
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <a href="https://react.dev" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   </a>
-  <a href="https://www.java.com/en/">
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <a href="https://nodejs.org" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   </a>
-  <a href="https://git-scm.com">
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <a href="https://nestjs.com" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   </a>
-  <a href="https://www.figma.com">
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <a href="https://nextjs.org/" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Linux">
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <a href="https://www.postgresql.org" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/SQL">
-     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <a href="https://www.docker.com" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   </a>
-  <a href="https://www.docker.com">
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <a href="https://www.linux.org" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   </a>
 </div>
 
-## 🌎 Languages
-#### <img width="15" height="15" src="https://flagcdn.com/br.svg"> Portuguese: **Fluent**
-#### <img width="15" height="15" src="https://flagcdn.com/es.svg"> Spanish: **Advanced**
-#### <img width="15" height="15" src="https://flagcdn.com/gb.svg"> English: **Intermediate-advanced**
+<br/>
 
-## Social Networks
-<div>
-  <div>
-      <a href="https://www.linkedin.com/in/gustavo-dos-santos-9a285957/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-    </div>
-</div>
+### 🌍 Languages
 
-# ${{\color{yellow}{\text{  HIRE ME }}}}\$
-## Do you have a good idea and want to make it a reality? Don't worry, get in touch now at contato@gusantoscode.com and let's talk about it.
+| Language   | Level             |
+|------------|------------------|
+| 🇧🇷 Portuguese | Native/Fluent     |
+| 🇪🇸 Spanish    | Advanced          |
+| 🇬🇧 English    | Intermediate-Advanced |
+
+<br/>
+
+### 📫 Contact & Social Media
+
+<p>
+  <a href="mailto:github.yonder366@passinbox.com">
+    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-dos-santos-9a285957/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<br/>
+
+### 💼 Let's book a call
+
+Do you have a great idea and want to turn it into reality? I can help you make it happen with solid code and creative solutions.
+
+📧 Reach me at **github.yonder366@passinbox.com** and let’s talk!
