@@ -82,11 +82,12 @@ const profile: IProfile = {
 
 ### 🌍 Languages
 
-| Language   | Level             |
-|------------|------------------|
-| 🇧🇷 Portuguese | Native/Fluent     |
-| 🇪🇸 Spanish    | Advanced          |
-| 🇬🇧 English    | Intermediate-Advanced |
+| Language    | Understanding | Speaking | Writing  | CEFR Level |
+|-------------|---------------|----------|----------|------------|
+| 🇧🇷 Portuguese | ✅ Native      | ✅ Native | ✅ Native | **C2**|
+| 🇬🇧 English    | ✅ Advanced    | ✅ Advanced | ✅ Advanced | **B2/C1** |
+| 🇪🇸 Spanish    | ✅ Advanced    | ✅ Advanced | ✅ Intermediate | **B2/C1**|
+
 
 <br/>
 
