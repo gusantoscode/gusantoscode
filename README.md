@@ -20,7 +20,7 @@ I'm currently focused on solutions that run on **Linux-based environments**, wit
 const profile: IProfile = {
   name: "Gustavo",
   gender: "male",
-  age: 21, // born on January 6
+  age: 22, // born on January 6
   email: "github.yonder366@passinbox.com", // Prevent spams...
   location: {
     country: "Brazil",
